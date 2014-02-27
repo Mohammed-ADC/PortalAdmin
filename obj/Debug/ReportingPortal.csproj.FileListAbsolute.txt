@@ -1,0 +1,6 @@
+c:\users\mazmatullah\documents\visual studio 2013\Projects\ReportingPortal\ReportingPortal\bin\ReportingPortal.dll.config
+c:\users\mazmatullah\documents\visual studio 2013\Projects\ReportingPortal\ReportingPortal\bin\ReportingPortal.dll
+c:\users\mazmatullah\documents\visual studio 2013\Projects\ReportingPortal\ReportingPortal\bin\ReportingPortal.pdb
+c:\users\mazmatullah\documents\visual studio 2013\Projects\ReportingPortal\ReportingPortal\obj\Debug\ReportingPortal.csprojResolveAssemblyReference.cache
+c:\users\mazmatullah\documents\visual studio 2013\Projects\ReportingPortal\ReportingPortal\obj\Debug\ReportingPortal.dll
+c:\users\mazmatullah\documents\visual studio 2013\Projects\ReportingPortal\ReportingPortal\obj\Debug\ReportingPortal.pdb
